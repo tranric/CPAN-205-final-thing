@@ -1,0 +1,17 @@
+#logo{
+    position: absolute;
+    left:27%;
+    bottom: 50%;
+}
+#login{
+    position: absolute;
+    left: 41%;
+    top: 35%;
+    width: 200px;
+}
+
+fieldset{
+    border-color:#FFFFFF;
+    border-style: solid;
+    text-align: center;
+}

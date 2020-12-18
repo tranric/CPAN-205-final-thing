@@ -1,0 +1,92 @@
+body{
+    position: relative;
+    background-image:url("Final/images/snippetsMenu.png");
+    font-family: "Arial", sans-serif;
+    background-image: url("/images/snippetsMenu.jpg");
+   	background-color: #90BEFF;
+}
+}
+#userinfo{
+font-family: "Arial", sans-serif;
+}
+#userInfo{
+    color: white;
+}
+#tweetcontent{
+    width: 200px;
+}
+.userInfo{
+    color: white;
+}
+
+#header{
+	width:20px;
+}
+#mainFeed{
+    margin-left:35%;
+	padding:1px 16px;
+	height:auto;
+    align-content: center;
+    background-color: #f1f1f1;
+     border-style: solid;
+    border-color: white;
+    border-radius: 5px;
+    border-width: 5px;
+    width: 400;
+}
+.tweet{
+    position: relative;
+    left: inherit;
+}
+table{
+    border-collapse: collapse;
+}
+tr{
+    border-top: solid 1px;
+    
+    border-bottom: solid 1px;
+    border-color: #AAB6F1;
+    width: 400px;
+}
+.styled-td{
+    color: black;
+}
+ul {
+	
+    list-style-type: none;
+    margin-top:0;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    background: -webkit-linear-gradient(#1A59B2, #FFFFFF);
+    background: -o-linear-gradient(#1A59B2, #FFFFFF);
+    background: -moz-linear-gradient(#1A59B2, #FFFFFF); 
+    background: linear-gradient(#1A59B2, #FFFFFF);
+    background-color: #f1f1f1;
+    border-style: solid;
+    border-color: white;
+    border-radius: 5px;
+    border-width: 5px;
+    position: fixed;
+    height: auto;
+    overflow: auto;
+    
+   
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+}
+
+li a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}

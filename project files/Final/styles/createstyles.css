@@ -1,0 +1,12 @@
+#createUser{
+    position: absolute;
+    left: 43%;
+    top: 35%;
+    width: 200px;
+}
+
+fieldset{
+    border-color:#FFFFFF;
+    border-style: solid;
+    text-align: center;
+}
